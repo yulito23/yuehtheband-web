@@ -1,7 +1,7 @@
 ---
 title: Contact
 featured_image: '/images/logo/logo.jpg'
-description: We'd like to hear from you
+#description: We'd like to hear from you
 type: page
 menu:
   main:
@@ -9,7 +9,7 @@ menu:
 ---
 
 
-If you want more information on our band please don't hesitate to contatct us 
+If you want more information on our band please don't hesitate to contact us 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 {{< form-contact action="https://formspree.io/f/mnjbjzke"  >}}

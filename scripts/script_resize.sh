@@ -11,8 +11,8 @@
 # ---- Configuration ----
 INPUT_DIR="${1:-.}"              # First argument or current directory
 OUTPUT_DIR="${2:-resized}"       # Second argument or "resized"
-WIDTH=500                        # Target width
-HEIGHT=500                       # Target height
+WIDTH=1600                        # Target width
+HEIGHT=900                       # Target height
 BACKGROUND="#f4f4f4"               # Padding color
 QUALITY=100                       # JPEG quality (0-100)
 # ------------------------

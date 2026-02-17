@@ -1,7 +1,7 @@
 ---
 title: "Bio"
 featured_image: '/images/logo/logo.jpg'
-description: "Who we are"
+#description: "Who we are"
 weight: 1
 type: page
 menu:

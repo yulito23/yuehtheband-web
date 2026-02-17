@@ -1,7 +1,7 @@
 ---
 title: "Concerts"
 weight: 4
-description: "Upcoming Concerts"
+#description: "Upcoming Concerts"
 featured_image: '/images/band/band_live1.jpg'
 type: page
 menu:
